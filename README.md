@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Hi, ich bin Tammo :)<br>Ich befinde mich aktuell in der Ausbildung zum Fachinformatiker für Anwendungsentwicklung.<br> Parallel dazu absolviere ich das Full Stack Developer Bootcamp bei der Developer Akademie. <br>Hier auf GitHub teile ich meine Lernfortschritte und Projekte aus beiden Bereichen.</p>
+<p align="center">Hi, ich bin Tammo :)<br>Ich befinde mich aktuell in der Ausbildung zum Fachinformatiker der Anwendungsentwicklung.<br> Parallel dazu absolviere ich das Full Stack Developer Bootcamp bei der Developer Akademie. <br>Hier auf GitHub teile ich meine Lernfortschritte und Projekte aus beiden Bereichen so wie eigene kleine Projekte</p>
 
 ###
 
@@ -23,8 +23,12 @@
 ###
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/tammo-taute-14962a325/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/@tammo0119" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
@@ -37,8 +41,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Tammo Taute">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Tammo%20Taute&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/rs5e9s9cb5y8nc9n42128yigu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rs5e9s9cb5y8nc9n42128yigu&count=10&width=400&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
