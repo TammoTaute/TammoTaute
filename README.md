@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Hi, ich bin Tammo :)<br>Ich befinde mich aktuell in der Ausbildung zum Fachinformatiker der Anwendungsentwicklung.<br> Parallel dazu absolviere ich das Full Stack Developer Bootcamp bei der Developer Akademie. <br>Hier auf GitHub teile ich meine Lernfortschritte und Projekte aus beiden Bereichen so wie eigene kleine Projekte</p>
+#<p align="center">Hi, ich bin Tammo :)<br>Ich befinde mich aktuell in der Ausbildung zum Fachinformatiker der Anwendungsentwicklung.<br> Parallel dazu absolviere ich das Full Stack Developer Bootcamp bei der Developer Akademie. <br>Hier auf GitHub teile ich meine Lernfortschritte und Projekte aus beiden Bereichen so wie eigene kleine Projekte</p>
 
 ###
 
